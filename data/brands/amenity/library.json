@@ -52,6 +52,18 @@
       }
     },
     {
+      "displayName": "Lane Medical Library",
+      "locationSet": {
+        "include": ["us"]
+      },
+      "tags": {
+        "amenity": "library",
+        "brand": "Lane Medical Library",
+        "brand:short": "Lane Library",
+        "brand:wikidata": "Q6485425"
+      }
+    },
+    {
       "displayName": "WCCLS",
       "id": "washingtoncountycooperativelibraryservices-0b187f",
       "locationSet": {
