@@ -30,6 +30,17 @@
         "name:en": "D-Parking",
         "name:ja": "Dパーキング"
       }
+    },
+     {
+      "displayName": "ParkBee",
+      "locationSet": {"include": ["nl"]},
+      "tags": {
+        "amenity": "parking",
+        "brand": "ParkBee",
+        "brand:wikidata": "Q121536325",
+        "fee": "yes",
+        "name": "ParkBee",
+      }
     }
   ]
 }
